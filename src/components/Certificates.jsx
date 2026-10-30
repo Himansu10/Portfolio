@@ -5,6 +5,7 @@ const certificates = [
   { title: 'Database Management System Part 1', issuer: 'Infosys', date: "Aug '26", image: '/dbms-certificate.png' },
   { title: 'Object Oriented Programming', issuer: 'Neo Colab', date: "Jul '25 - Jan '26", image: '/oop-certificate.png' },
   { title: 'Unleashing Innovation: The Generative AI Revolution', issuer: 'AWS / SheKnowsAI / AspireForHer', date: "Feb '25", image: '/generative-ai-workshop-certificate.jpeg' },
+  { title: 'Fundamentals of Data Structures: Learn, Apply and Build Projects', issuer: 'Lovely Professional University', date: "Aug '26", image: '/Fundamentals of Data Structures.png' },
 ]
 
 export default function Certificates() {
